@@ -1,0 +1,90 @@
+body {
+    background-image: url(../images/bck_ground.jpg);
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.btn-default{
+    background-color: #4f4f4f;
+    color: white;
+}
+/*, .btn-primary:visited*/
+.btn-primaru:hover, .btn-primary:focus{
+
+    background-color: #4f4f4f;
+    color: white;
+}
+
+h2
+{
+    font-family: "PT Sans", Arial, sans-serif;
+    font-weight: 800;
+    font-size: 60px;
+    font-style: normal;
+    text-align: center;
+
+    margin-top: 15%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    margin-left: 5%;
+}
+
+
+#for_line {
+    border-bottom: 10px solid red;
+}
+
+
+
+.row{
+    margin-top: 5%;
+    margin-right: 20%;
+    margin-bottom: 40%;
+    margin-left: 20%;
+}
+.form-control {
+    opacity: .7;
+    background-color: #4f4f4f;
+    color: snow;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#res_form, #add_btn_form {
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#btn_top{
+    margin-right: 5%;
+}
+
+#error_area{
+    font-family: "PT Sans", Arial, sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    color: black;
+
+}
+
+/* заголовок на стр стаитстики*/
+#header_show_log{
+    font-family: "PT Sans", Arial, sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+
+    margin-top: 10%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+}
+#stat_table{
+    margin-top: 1%;
+    margin-right: 0%;
+    margin-bottom: 1%;
+    margin-left: 0%;
+}
